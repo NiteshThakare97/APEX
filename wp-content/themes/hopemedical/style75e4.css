@@ -6225,6 +6225,7 @@ video {
     }
     .header-lower .appoinment-btn {
         width: 30%;
+        right: 13%;
     }
     .header-lower .appoinment-btn h2 {
         font-size: 12px;
