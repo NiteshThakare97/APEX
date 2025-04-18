@@ -723,7 +723,7 @@ li {
     top: 0%;
     width: 1000px;
     height: 100%;
-    background: #524191;
+    /* background: #524191; */
 }
 
 .main-header .header-lower .logo:after {
@@ -6224,8 +6224,12 @@ video {
         margin: 0px !important;
     }
     .header-lower .appoinment-btn {
-        width: 30%;
-        right: 13%;
+        width: 36%;
+        right: 4%;
+        top: 24%;
+    }
+    .main-header .header-lower .logo img {
+        height: 70px;
     }
     .header-lower .appoinment-btn h2 {
         font-size: 12px;
